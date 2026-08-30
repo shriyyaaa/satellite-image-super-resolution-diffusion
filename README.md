@@ -292,7 +292,7 @@ pip install -r requirements.txt
 Open the notebook:
 
 ```text
-satellite-image-super-resolution.ipynb
+[satellite-image-super-resolution.ipynb](https://colab.research.google.com/drive/18OGVyRiBaF9mjh8zq7RpKOCyJIhUcAVg?usp=sharing)
 ```
 
 The project can also be executed in Google Colab using a GPU runtime.
